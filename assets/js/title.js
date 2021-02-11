@@ -1,4 +1,4 @@
-var text = ["|", " /", "i \", "iT -", "iTu |", "iTun /", "iTuni \", "iTunit -", "iTunity |","iTunit /","iTuni \", "iTun -", "iTu |", "iT -", "i /",];
+var text = ["#", " #", "i #", "iT #", "iTu #", "iTun #", "iTuni #", "iTunit #", "iTunity #","iTunit #","iTuni #", "iTun #", "iTu #", "iT #", "i #",];
 var counter = 0;
 var inst = setInterval(change, 700);
 
